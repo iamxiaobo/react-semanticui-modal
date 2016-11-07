@@ -1,6 +1,6 @@
 {
   "name": "react-semanticui-modal",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "",
   "main": "lib/modal.js",
   "scripts": {
@@ -24,6 +24,9 @@
     "react": "^15.3.2",
     "lodash.assign": "^4.2.0",
     "react-dom": "^15.3.2"
+  },
+  "peerDependencies": {
+    "react": "^15.3.2"
   },
   "keywords": [
     "react",
